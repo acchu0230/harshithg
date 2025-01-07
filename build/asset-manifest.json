@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9e41caf.css",
+    "main.js": "/static/js/main.89ac5268.js",
+    "static/media/9019808.jpg": "/static/media/9019808.b9b2cef0a3a44a3cbb5f.jpg",
+    "static/media/Myimg.png": "/static/media/Myimg.1f22364342b138916bf5.png",
+    "static/media/cpplogo.png": "/static/media/cpplogo.d4bae920695bb7b7d33e.png",
+    "static/media/reactlogo.png": "/static/media/reactlogo.f2d3bf3501cde6ce9b46.png",
+    "static/media/htmllogo.png": "/static/media/htmllogo.713a6cabb275d6101fb2.png",
+    "static/media/angularlogo.png": "/static/media/angularlogo.7623781c1c64dc261012.png",
+    "static/media/clogo.png": "/static/media/clogo.6a08b8c08421fe8a904c.png",
+    "static/media/javalogo.png": "/static/media/javalogo.f251166d805adf254536.png",
+    "static/media/inter-latin-ext-400-normal.woff": "/static/media/inter-latin-ext-400-normal.1c20f7dc20d731a18fcd.woff",
+    "static/media/inter-latin-400-normal.woff": "/static/media/inter-latin-400-normal.b0c8fe9db56dd415a25a.woff",
+    "static/media/inter-latin-ext-400-normal.woff2": "/static/media/inter-latin-ext-400-normal.3d10c85fbd16969509a2.woff2",
+    "static/media/inter-latin-400-normal.woff2": "/static/media/inter-latin-400-normal.9698cc7dbf147ed363b6.woff2",
+    "static/media/pythonlogo.png": "/static/media/pythonlogo.bc364d97c1a7444df588.png",
+    "static/media/inter-cyrillic-ext-400-normal.woff": "/static/media/inter-cyrillic-ext-400-normal.e89451624c6caf35687f.woff",
+    "static/media/inter-cyrillic-ext-400-normal.woff2": "/static/media/inter-cyrillic-ext-400-normal.fd1478dcc74de00ee4c0.woff2",
+    "static/media/inter-cyrillic-400-normal.woff": "/static/media/inter-cyrillic-400-normal.e2841352dd9512ff455b.woff",
+    "static/media/inter-greek-400-normal.woff": "/static/media/inter-greek-400-normal.a42da273bb968bf2058d.woff",
+    "static/media/inter-greek-400-normal.woff2": "/static/media/inter-greek-400-normal.a8de720a6f13c66c8a4e.woff2",
+    "static/media/inter-cyrillic-400-normal.woff2": "/static/media/inter-cyrillic-400-normal.cb04b2ee2f7d192478b8.woff2",
+    "static/media/inter-greek-ext-400-normal.woff": "/static/media/inter-greek-ext-400-normal.b9e1e89444a313a63b91.woff",
+    "static/media/inter-vietnamese-400-normal.woff": "/static/media/inter-vietnamese-400-normal.96f8adc74b63e1a3655f.woff",
+    "static/media/inter-greek-ext-400-normal.woff2": "/static/media/inter-greek-ext-400-normal.f2fa0d9ef98f59d4a75b.woff2",
+    "static/media/inter-vietnamese-400-normal.woff2": "/static/media/inter-vietnamese-400-normal.44c9df135eec470b0ab6.woff2",
+    "index.html": "/index.html",
+    "main.a9e41caf.css.map": "/static/css/main.a9e41caf.css.map",
+    "main.89ac5268.js.map": "/static/js/main.89ac5268.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9e41caf.css",
+    "static/js/main.89ac5268.js"
+  ]
+}
