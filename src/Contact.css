@@ -1,0 +1,60 @@
+/* Contact.css */
+.contact-container {
+    text-align: center;
+    padding: 150px 20px;
+    /* background-color: #f4f4f4; */
+    color: #ffffff;
+  }
+  
+  
+  .contact-title {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #ffffff;
+  }
+  
+  .contact-description {
+    font-size: 18px;
+    margin-bottom: 30px;
+    color: #f6f4f4;
+    /* position: fixed; */
+  }
+  
+  .contact-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .contact-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 18px;
+    color: #09fb21;
+    /* background: #ffffff; */
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .contact-link:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    color: chartreuse;
+  }
+  
+  .contact-icon {
+    margin-right: 10px;
+    font-size: 24px;
+  }
+  
+  .contact-link:first-child {
+    color: #0077b5; /* LinkedIn blue */
+  }
+  
+  .contact-link:last-child {
+    color: #d39025; /* WhatsApp green */
+  }
+  

@@ -1,0 +1,33 @@
+.project {
+    text-align: center;
+    padding: 20px;
+}
+
+.project h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.project img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.p1{
+    font-size: 200px;
+    
+}
+
+@media (max-width: 768px) {
+    .project h1 {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 480px) {
+    .project h1 {
+        font-size: 24px;
+    }
+}

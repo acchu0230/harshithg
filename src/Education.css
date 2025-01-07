@@ -1,0 +1,31 @@
+/* Education.css */
+.edu {
+    text-align: center;
+    padding: 90px 50px;
+    height: auto;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.he1 {
+    font-size: 36px;
+    margin-bottom: 20px;   
+}
+
+/* .he1:hover {
+    color: #1511ed;
+    transition: color 0.3s ease;
+} */
+
+ol {
+    text-align: left;
+    margin-left: 500px;
+}
+li {
+    font-size: 30px;
+    margin-bottom: 10px;
+    animation: slideInFromRight 1s ease-in-out;
+}
